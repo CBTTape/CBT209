@@ -1,0 +1,6 @@
+2023-04-02 22:40:11.735424 - Initialized conversion of CBT209
+2023-04-02 22:40:11.779407 - Received CBT.V504.FILE209.PDS from FILE209.XMI 
+2023-04-02 22:40:11.782104 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE209.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:40:11.783483 - Found $$DOC.txt (text/plain) in CBT.V504.FILE209.PDS, moved to PDS/$$DOC
+2023-04-02 22:40:11.784485 - Found @FILE209.txt (text/plain) in CBT.V504.FILE209.PDS, moved to PDS/@FILE209
+2023-04-02 22:40:11.785540 - Found CALCR.rexx (text/plain) in CBT.V504.FILE209.PDS, moved to PDS/CALCR
