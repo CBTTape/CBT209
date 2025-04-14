@@ -1,5 +1,5 @@
-2025-04-13 17:33:38.045563 - Received CBT.V508.FILE209.PDS from FILE209.XMI 
-2025-04-13 17:33:38.046216 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/$$$#DATE
-2025-04-13 17:33:38.046285 - Found $$DOC.txt (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/$$DOC
-2025-04-13 17:33:38.046337 - Found @FILE209.txt (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/@FILE209
-2025-04-13 17:33:38.046415 - Found CALCR.rexx (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/CALCR
+2025-04-15 00:33:48.765363 - Received CBT.V508.FILE209.PDS from FILE209.XMI 
+2025-04-15 00:33:48.766804 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/$$$#DATE
+2025-04-15 00:33:48.767018 - Found $$DOC.txt (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/$$DOC
+2025-04-15 00:33:48.767193 - Found @FILE209.txt (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/@FILE209
+2025-04-15 00:33:48.767631 - Found CALCR.rexx (text/plain) in CBT.V508.FILE209.PDS, moved to PDS/CALCR
